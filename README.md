@@ -13,13 +13,13 @@
 #                    #***************************#						#
 #     																	#
 #																		#
-# 	"kartik97_proj_2.zip" 												#
+# 	"kushagra7176/Lane_Detection_and_Detection.zip" 												#
 # (Extract this compressed file to any desired folder) 					#
-#	Folder Name after extraction: kartik97_proj_2						#
-#									|-Code								#
-#									|	|-Question 1.py					#
-#									|	|-Question2_data1.py			#
-#									|	|-Question2_data2.py			#
+#	Folder Name after extraction: Lane_Detection_and_Detection						#
+#																#
+#									|-Question 1.py					#
+#									|-Question2_data1.py			#
+#									|-Question2_data2.py			#
 #									|-Report.pdf						#
 #									|-README.md							#
 #																		#
@@ -38,11 +38,11 @@ Instructions to run the file:
 
 ################## PyCharm IDE preferred #############
 
--> Extract the "ka_proj_2.zip" to any desired folder.
+-> Extract the "kushagra7176/Lane_Detection_and_Detection.zip" to any desired folder.
 
 -> 1. Using Command Prompt:
 
-->-> Navigate to the "Code" folder inside "kartik97_proj_2" folder, right click and select open terminal or command prompt here. (Skip Step 5 and go to Step 6)
+->-> Navigate to the codes inside "kushagra7176/Lane_Detection_and_Detection.zip" folder, right click and select open terminal or command prompt here. (Skip Step 5 and go to Step 6)
 	*** use 'python3' instead of 'python' in the terminal if using Linux based OS ***
 	Execute the files by using the following commands in command prompt or terminal:
 	--python .\Question 1.py      

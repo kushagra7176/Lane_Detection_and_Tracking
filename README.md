@@ -9,20 +9,18 @@
 
 #########################################################################
 #                    #***************************#                      #
-#                    #*** Directory Structure ***#						#
-#                    #***************************#						#
-#     																	#
-#																		#
-# 	"kushagra7176/Lane_Detection_and_Detection.zip" 												#
-# (Extract this compressed file to any desired folder) 					#
-#	Folder Name after extraction: Lane_Detection_and_Detection						#
-#																#
-#									|-Question 1.py					#
-#									|-Question2_data1.py			#
-#									|-Question2_data2.py			#
-#									|-Report.pdf						#
-#									|-README.md							#
-#																		#
+#                    #*** Directory Structure ***#			#
+#                    #***************************#			#
+                                    																												
+# 	"kushagra7176/Lane_Detection_and_Detection.zip" 	#									
+# (Extract this compressed file to any desired folder) 					
+#Folder Name after extraction: Lane_Detection_and_Detection	#
+#								#								
+#		|-Question 1.py					#
+#		|-Question2_data1.py			        #
+#		|-Question2_data2.py			        #
+#		|-Report.pdf					#
+#		|-README.md					#
 #########################################################################
 
 
